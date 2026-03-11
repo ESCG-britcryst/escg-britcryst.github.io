@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Home"
+    url: /about/
+  - title: "The Committee"
+    url: /committee/
+  - title: "Prizes"
+    url: /prizes/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Constitution"
+    url: /constitution/
+  - title: "Meetings"
+    url: /meetings/
+  - title: "Publications"
+    url: /publications/        
