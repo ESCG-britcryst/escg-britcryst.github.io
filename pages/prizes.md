@@ -6,7 +6,6 @@
      nav: "prizes"
 ---
 
-# Prizes
 ## The Parkin Lecture (Prize Lecture of the ESCG)
 
 To recognise the outstanding achievements of the late Dr Andrew Parkin in his roles as scientist and teacher, the ESCG has established a prize lecture to be held in future meetings of the ESCG. This prize lecture is intended to honour Dr Andrew Parkin’s contribution to the ESCG in particular and shall be known as “The Parkin Lecture” of the ESCG.

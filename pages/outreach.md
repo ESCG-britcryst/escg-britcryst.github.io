@@ -6,7 +6,7 @@
      nav: "outreach"
 ---
 
-# Resources for Crystallography
+## Resources for Crystallography
 
 Here we will post good resources for developing skills in crystallography. If you want to suggest more resources, please contact the webperson.
 
