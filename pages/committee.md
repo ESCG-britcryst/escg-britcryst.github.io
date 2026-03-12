@@ -14,10 +14,12 @@ Royal Society of Chemistry
 
 My goal is to represent the interests of the early stage crystallographers’ to the wider community.
 
-<div style="text-align: justify">
+<div style="text-align: justified">
 I recently finished my PhD in chemistry, funded by EPSRC, as part of the Materials for Energy and Electronics (MEE) group at the University of Kent. Under the supervision of Dr Paul Saines, my research focussed on the magnetic and ferroelectric properties/transitions of dense framework materials. We depend on both X-ray and Neutron diffraction/scattering to probe our materials’ atomic and magnetic structure to optimise performance for incorporation into devices.
 </div>
+
 <br> 
+
 ## Deputy Chair
 ### Sam Lewis
 ![image-right]({{ site.url }}{{ site.baseurl }}/_assets/_photos/people/sam-lewis.jpg)
@@ -29,4 +31,5 @@ I am a Postdoctoral Researcher with the Femtosecond X-ray Experiments (FXE) inst
 
  <br>
  
+
 
