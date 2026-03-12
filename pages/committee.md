@@ -26,11 +26,12 @@ I recently finished my PhD in chemistry, funded by EPSRC, as part of the Materia
 European XFEL
 
 My goals is to support the chair in representing the membership and engaging with the public.
-
+<div align= "justify">
 I am a Postdoctoral Researcher with the Femtosecond X-ray Experiments (FXE) instrument at European XFEL in Hamburg Germany. My research revolves around the use of synchrotron and XFEL facilities to conduct time-resolved measurements to investigate dynamic processes in molecular systems. I am particularly interested in the development of sample preparation, data collection, and data processing techniques to make these studies feasible. Previously, I did my PhD under the supervision of Dr Lauren Hatcher at Cardiff University and Dr Mark Warren at Diamond Light Source.
-
+</div>
  <br>
  
+
 
 
 
