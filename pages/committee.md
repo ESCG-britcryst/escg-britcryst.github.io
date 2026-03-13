@@ -6,10 +6,11 @@
      nav: "committee"
 ---
 <br>
+
 ## Chair
 ### Thomas Hitchings
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/staging/_assets/_photos/people/thomas-hitchings.jpg?raw=true" width="200">
+<img src="../_assets/_photos/people/thomas-hitchings.jpg?raw=true" width="200">
 
 tomhitchings96@gmail.com - Publishing Editor Royal Society of Chemistry
 
@@ -22,7 +23,7 @@ I recently finished my PhD in chemistry, funded by EPSRC, as part of the Materia
 ## Deputy Chair
 ### Sam Lewis
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/staging/_assets/_photos/people/sam-lewis.jpg?raw=true" width="200">
+<img src="../_assets/_photos/people/sam-lewis.jpg?raw=true" width="200">
 
 sam.lewis@xfel.eu - European XFEL
 
