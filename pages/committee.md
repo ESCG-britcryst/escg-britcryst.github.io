@@ -6,7 +6,6 @@
      nav: "committee"
 ---
 <br>
-
 ## Chair
 ### Thomas Hitchings
 
