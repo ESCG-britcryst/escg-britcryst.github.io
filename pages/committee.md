@@ -48,7 +48,7 @@ I am a PhD student in Dr. Tony Keene’s group at University College Dublin in I
 ## Equality and Diversity Officer
 ### Emma Hawking
 
-<img src="/_assets/_icons/escg.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 ehawking@ccdc.cam.ac.uk - Cambridge Crystallographic Data Centre
 
