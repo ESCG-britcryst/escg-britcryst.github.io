@@ -49,12 +49,12 @@ GEM
     ffi (1.17.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
-    github-pages (232)
+    github-pages (231)
       github-pages-health-check (= 1.18.2)
-      jekyll (= 3.10.0)
+      jekyll (= 3.9.5)
       jekyll-avatar (= 0.8.0)
       jekyll-coffeescript (= 1.2.2)
-      jekyll-commonmark-ghpages (= 0.5.1)
+      jekyll-commonmark-ghpages (= 0.4.0)
       jekyll-default-layout (= 0.1.5)
       jekyll-feed (= 0.17.0)
       jekyll-gist (= 1.5.0)
@@ -91,10 +91,9 @@ GEM
       liquid (= 4.0.4)
       mercenary (~> 0.3)
       minima (= 2.5.1)
-      nokogiri (>= 1.16.2, < 2.0)
+      nokogiri (>= 1.13.6, < 2.0)
       rouge (= 3.30.0)
       terminal-table (~> 1.4)
-      webrick (~> 1.8)
     github-pages-health-check (1.18.2)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
@@ -107,10 +106,9 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
-    jekyll (3.10.0)
+    jekyll (3.9.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
-      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (>= 0.7, < 2)
       jekyll-sass-converter (~> 1.0)
@@ -121,7 +119,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-      webrick (>= 1.0)
     jekyll-avatar (0.8.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-coffeescript (1.2.2)
@@ -129,9 +126,9 @@ GEM
       coffee-script-source (~> 1.12)
     jekyll-commonmark (1.4.0)
       commonmarker (~> 0.22)
-    jekyll-commonmark-ghpages (0.5.1)
-      commonmarker (>= 0.23.7, < 1.1.0)
-      jekyll (>= 3.9, < 4.0)
+    jekyll-commonmark-ghpages (0.4.0)
+      commonmarker (~> 0.23.7)
+      jekyll (~> 3.9.0)
       jekyll-commonmark (~> 1.4.0)
       rouge (>= 2.0, < 5.0)
     jekyll-default-layout (0.1.5)
@@ -233,6 +230,13 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    minimal-mistakes-jekyll (4.28.0)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.3)
     minitest (6.0.2)
       drb (~> 2.0)
       prism (~> 1.5)
@@ -282,13 +286,14 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages (= 232)
-  http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
-  tzinfo (>= 1, < 3)
+  csv
+  github-pages (~> 231)
+  jekyll-feed (~> 0.6)
+  jekyll-remote-theme
+  minimal-mistakes-jekyll
   tzinfo-data
-  wdm (~> 0.1)
+  wdm (>= 0.1.0)
+  webrick (~> 1.8)
 
 CHECKSUMS
   activesupport (8.1.2) sha256=88842578ccd0d40f658289b0e8c842acfe9af751afee2e0744a7873f50b6fdae
@@ -313,16 +318,16 @@ CHECKSUMS
   ffi (1.17.3-x64-mingw-ucrt) sha256=5f1d7d067a9a1058ad183dba25b05557cd51c85fc1768c49338eabc1cf242d7c
   forwardable-extended (2.6.0) sha256=1bec948c469bbddfadeb3bd90eb8c85f6e627a412a3e852acfd7eaedbac3ec97
   gemoji (4.1.0) sha256=734434020cbe964ea9d19086798797a47d23a170892de0ce55b74aa65d2ddc1a
-  github-pages (232) sha256=2b40493d7327627e4ce45c47f4a9d4394e5eaa151f9d29bb924ff424c3132287
+  github-pages (231) sha256=79d18a3f9b89088d649a6439dd40ef33df1493e79f30778d1333fbf742760818
   github-pages-health-check (1.18.2) sha256=df893d4f5a4161477e8525b993dbe1c1eb63fbb86fb07b6e80996fd37a18843d
   html-pipeline (2.14.3) sha256=8a1d4d7128b2141913387cac0f8ba898bb6812557001acc0c2b46910f59413a0
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
-  jekyll (3.10.0) sha256=c4213b761dc7dfe7d499eb742d0476a02d8503e440c2610e19774ee7f0db8d90
+  jekyll (3.9.5) sha256=c22a95f18036c49f6549afdc28787c4d99fc6f26a1af3e867578c918ec9a66f0
   jekyll-avatar (0.8.0) sha256=ea736277c2de54a21300122096700517972a722d5c68ca83f8723b4999abfd4b
   jekyll-coffeescript (1.2.2) sha256=894e71c2071a834e76eb7e8044944440a0c81c2c7092532fed1503b13d331110
   jekyll-commonmark (1.4.0) sha256=1731e658fe09ce040271e6878f83ad45bbf8d17b10ad03bf343546cca30f4844
-  jekyll-commonmark-ghpages (0.5.1) sha256=d56722f23393e45625e6e1bac6d3c64bb5f5cdf6ca547338160536d61c27a4a4
+  jekyll-commonmark-ghpages (0.4.0) sha256=edc9e812b09d8bcf328356824767fcfa7204fe2130f9b4c47098b099d63afafe
   jekyll-default-layout (0.1.5) sha256=c626be4e4a5deafca123539da2cd22ff873be350cafd4da134039efdf24320af
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
   jekyll-gist (1.5.0) sha256=495b6483552a3e2975a2752964ea7acddd545bc6e13ce2be15a50cec8d4c9f0f
@@ -363,6 +368,7 @@ CHECKSUMS
   logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
   mercenary (0.3.6) sha256=2a084b18f5692c86a633e185d5311ba6d11fc46c802eb414ae05368178078a82
   minima (2.5.1) sha256=520e52bc631fb16cbb8100660f6caa44f97859e2fa7e397d508deb18739567be
+  minimal-mistakes-jekyll (4.28.0) sha256=97d38e5ae90d8d9192bb0c9dc577ed41783bd3842a506429842e984e0877ecd7
   minitest (6.0.2) sha256=db6e57956f6ecc6134683b4c87467d6dd792323c7f0eea7b93f66bd284adbc3d
   net-http (0.9.1) sha256=25ba0b67c63e89df626ed8fac771d0ad24ad151a858af2cc8e6a716ca4336996
   nokogiri (1.19.1-x64-mingw-ucrt) sha256=110d92ae57694ae7866670d298a5d04cd150fae5a6a7849957d66f171e6aec9b
