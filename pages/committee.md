@@ -6,6 +6,7 @@
      nav: "committee"
 ---
 <br>
+
 ## Chair
 ### Thomas Hitchings
 
@@ -113,6 +114,7 @@ I am a PhD student at the University of Warwick under the supervision of Dr Mark
 
 ## Ordinary Members
 ### Ben Tragheim
+
 
 <img src="/_assets/_photos/people/ben-tragheim.jpg?raw=true" width="200">
 
