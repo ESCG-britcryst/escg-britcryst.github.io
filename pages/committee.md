@@ -10,7 +10,7 @@
 ## Chair
 ### Thomas Hitchings
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/thomas-hitchings.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/thomas-hitchings.jpg?raw=true" width="200">
 
 tomhitchings96@gmail.com - Publishing Editor Royal Society of Chemistry
 
@@ -23,7 +23,7 @@ I recently finished my PhD in chemistry, funded by EPSRC, as part of the Materia
 ## Deputy Chair
 ### Sam Lewis
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/sam-lewis.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/sam-lewis.jpg?raw=true" width="200">
 
 sam.lewis@xfel.eu - European XFEL
 
@@ -36,7 +36,7 @@ I am a Postdoctoral Researcher with the Femtosecond X-ray Experiments (FXE) inst
 ## Secretary/Treasurer
 ### Olivia Breen
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/olivia-breen.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/olivia-breen.jpg?raw=true" width="200">
 
 olivia.breen1@ucdconnect.ie - University College Dublin
 
@@ -48,7 +48,7 @@ I am a PhD student in Dr. Tony Keene’s group at University College Dublin in I
 ## Equality and Diversity Officer
 ### Emma Hawking
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_icons/escg.jpg?raw=true" width="200">
+<img src="/_assets/_icons/escg.jpg?raw=true" width="200">
 
 ehawking@ccdc.cam.ac.uk - Cambridge Crystallographic Data Centre
 
@@ -58,7 +58,7 @@ My role is to promote equality and reduce discrimination within the ESCG.
 ## Webperson
 ### Eliza Dempsey
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/eliza-dempsey.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/eliza-dempsey.jpg?raw=true" width="200">
 
 dempsee6@tcd.ie - Trinity College Dublin
 
@@ -82,7 +82,7 @@ I am currently a PhD Student at the University of Bradford, under the supervisio
 ## CCG Representative
 ### Stephen Brown
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/stephen-brown.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/stephen-brown.jpg?raw=true" width="200">
 
 Steph.en.e.brown.sci@gmail.com- University of Warwick
 
@@ -93,7 +93,7 @@ I am a final year PhD student in the Pike group at the University of Warwick. I 
 ## IG Representative
 ### Jessica Metherall
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/jessica-metherall.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/jessica-metherall.jpg?raw=true" width="200">
 
 j.metherall@newcastle.ac.uk- Newcastle University
 
@@ -104,7 +104,7 @@ I am a PhD student jointly funded by Newcastle University and AstraZeneca. My re
 ## PCG Representative
 ### Evie Ladbrook
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/evie-ladbrook.jpeg?raw=true" width="200">
+<img src="/_assets/_photos/people/evie-ladbrook.jpeg?raw=true" width="200">
 
 evie.ladbrook@warwick.ac.uk - University of Warwick
 
@@ -115,7 +115,8 @@ I am a PhD student at the University of Warwick under the supervision of Dr Mark
 ## Ordinary Members
 ### Ben Tragheim
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/ben-tragheim.jpg?raw=true" width="200">
+
+<img src="/_assets/_photos/people/ben-tragheim.jpg?raw=true" width="200">
 
 b.r.tragheim@sheffield.ac.uk - University of Warwick
 
@@ -125,7 +126,7 @@ I am a PhD student at the University of Warwick, based in the Materials and Anal
 
 ### Celine Beck
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/celine-beck.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/celine-beck.jpg?raw=true" width="200">
 
 c.beck.1@research.gla.ac.uk - University of Glasgow/Diamond Light Source
 
@@ -136,7 +137,7 @@ I’m a joint PhD student in the Materials and Condensed Matter Physics Group at
 
 ### Sam Thompson
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/sam-thompson.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/sam-thompson.jpg?raw=true" width="200">
 
 sam.y.thompson64@gmail.com - University of Durham
 
@@ -146,7 +147,7 @@ I am a PhD graduate from the Evans’ group at Durham University. My research ha
 
 ### Gayathri Manoj
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/main/_assets/_photos/people/gayathri-manoj.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/gayathri-manoj.jpg?raw=true" width="200">
 
 gayathri.manoj@diamond.ac.uk - University of Leeds/Diamond Light Source
 
