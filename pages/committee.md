@@ -70,7 +70,7 @@ I am a Postdoctoral Fellow in the Watson group at Trinity College Dublin. My wor
 ## BSG Representative
 ### Jake Hill
 
-<img src="https://github.com/ESCG-britcryst/escg-britcryst.github.io/blob/staging/_assets/_photos/people/jake-hill.jpg?raw=true" width="200">
+<img src="/_assets/_photos/people/jake-hill.jpg" width="200">
 
 hill-jake@outlook.com - University of Bradford
 
