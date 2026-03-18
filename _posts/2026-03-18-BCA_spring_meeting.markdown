@@ -6,7 +6,7 @@ categories: website
 sidebar:
 ---
 
-<img src="/photos/BCA_2026_banner.png" width="1000">
+<img src="/photos/BCA_26_banner.png" width="1000">
 
 👋 Get to know the Early Stage Crystallography community at our up coming satellite meeting 
 
