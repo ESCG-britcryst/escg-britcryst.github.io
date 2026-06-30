@@ -95,7 +95,7 @@ balmohammadiy@cardiff.ac.uk - Cardiff University
 ## PCG Representative
 ### Gloria Gao
 
-<img src="photos/people/gloria_gao.png?raw=true" width="200">
+<img src="/photos/people/gloria_gao.png?raw=true" width="200">
 
 gloria.gao@rfi.ac.uk - The Rosalind Franklin Institute
 
