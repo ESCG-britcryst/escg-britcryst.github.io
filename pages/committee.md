@@ -10,7 +10,7 @@
 ## Chair
 ### Dan Rainer
 
-<img src="/photos/people/thomas-hitchings.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 d.n.rainer@soton.ac.uk - University of Southampton
 
@@ -79,7 +79,7 @@ I am currently a PhD Student at the University of Bradford, under the supervisio
 ## CCG Representative
 ### Lewis Jackson
 
-<img src="/photos/people/stephen-brown.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 lj281@kent.ac.uk - University of Kent
 <br>
@@ -87,7 +87,7 @@ lj281@kent.ac.uk - University of Kent
 ## IG Representative
 ### Yaser Balmohammadi
 
-<img src="/photos/people/jessica-metherall.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 balmohammadiy@cardiff.ac.uk - Cardiff University
 <br>
@@ -107,7 +107,7 @@ I am a PhD student at the Rosalind Franklin Institute/ University of Edinburgh. 
 ### Debashish Das
 
 
-<img src="/photos/people/ben-tragheim.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 DasD2@cardiff.ac.uk - Cardiff University
 <br>
