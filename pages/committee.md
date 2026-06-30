@@ -8,16 +8,13 @@
 <br>
 
 ## Chair
-### Thomas Hitchings
+### Dan Rainer
 
-<img src="/photos/people/thomas-hitchings.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
-tomhitchings96@gmail.com - Publishing Editor Royal Society of Chemistry
+d.n.rainer@soton.ac.uk - University of Southampton
 
 My role is to represent the interests of the early stage crystallographers to the wider community.
-<div align= "justify">
-I recently finished my PhD in chemistry, funded by EPSRC, as part of the Materials for Energy and Electronics (MEE) group at the University of Kent. Under the supervision of Dr Paul Saines, my research focussed on the magnetic and ferroelectric properties/transitions of dense framework materials. We depend on both X-ray and Neutron diffraction/scattering to probe our materials’ atomic and magnetic structure to optimise performance for incorporation into devices.
-</div>
  <br>
  
 ## Deputy Chair
@@ -55,7 +52,7 @@ ehawking@ccdc.cam.ac.uk - Cambridge Crystallographic Data Centre
 My role is to promote equality and reduce discrimination within the ESCG.
 <br>
 
-## Webperson
+## Webmaster
 ### Eliza Dempsey
 
 <img src="/photos/people/eliza-dempsey.jpg?raw=true" width="200">
@@ -80,48 +77,39 @@ I am currently a PhD Student at the University of Bradford, under the supervisio
 <br>
  
 ## CCG Representative
-### Stephen Brown
+### Lewis Jackson
 
-<img src="/photos/people/stephen-brown.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
-Steph.en.e.brown.sci@gmail.com- University of Warwick
-
-<div align= "justify">
-I am a final year PhD student in the Pike group at the University of Warwick. I use single crystal diffraction to study metal-oxo clusters, molecular analogues of metal oxides. This includes exploring the photochemistry in the crystal state using photo driven single-crystal to single-crystal transformations.</div>
+lj281@kent.ac.uk - University of Kent
 <br>
 
 ## IG Representative
-### Jessica Metherall
+### Yaser Balmohammadi
 
-<img src="/photos/people/jessica-metherall.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
-j.metherall@newcastle.ac.uk- Newcastle University
-
-<div align= "justify">
-I am a PhD student jointly funded by Newcastle University and AstraZeneca. My research focuses on the development of the Encapsulated Nanodroplet Crystallisation (ENaCt) technique, combining a statistical and high-throughput experimental approach for the crystallisation of small molecules and pharmaceuticals.</div>
+balmohammadiy@cardiff.ac.uk - Cardiff University
 <br>
 
 ## PCG Representative
-### Evie Ladbrook
+### Gloria Gao
 
-<img src="/photos/people/evie-ladbrook.jpeg?raw=true" width="200">
+<img src="photos/people/gloria_gao.png?raw=true" width="200">
 
-evie.ladbrook@warwick.ac.uk - University of Warwick
+gloria.gao@rfi.ac.uk - The Rosalind Franklin Institute
 
 <div align= "justify">
-I am a PhD student at the University of Warwick under the supervision of Dr Mark Senn. My research focuses on using scanning 3DXRD and in situ diffraction techniques, such as applied strain and pressure, to investigate the subtle structural distortions and domain structures that result in the properties displayed by ferroic and superconducting materials.</div>
+I am a PhD student at the Rosalind Franklin Institute/ University of Edinburgh. My work involves the use of electron diffraction and electron imaging to investigate the structure of microcrystals under pressure, working with samples ranging from 2D material, organic molecules and biomacromolecules. </div>
 <br>
 
 ## Ordinary Members
-### Ben Tragheim
+### Debashish Das
 
 
-<img src="/photos/people/ben-tragheim.jpg?raw=true" width="200">
+<img src="/photos/icons/escg.jpg?raw=true" width="200">
 
-b.r.tragheim@sheffield.ac.uk - University of Warwick
-
-<div align= "justify">
-I am a PhD student at the University of Warwick, based in the Materials and Analytical Sciences department, under the supervision of Dr Mark Senn. My research involves the investigation of the interplay of Jahn-Teller distortions and orbital order to different symmetry-breaking degrees of freedom in perovskites. This is approached via symmetry-adapted methods that allow powerful descriptions of structural distortions with respect to undistorted, high symmetry structures. As a result, frequent visits to central facilities to characterise these materials using both average and local structure X-ray diffraction techniques have already been achieved.</div>
+DasD2@cardiff.ac.uk - Cardiff University
 <br>
 
 ### Celine Beck
