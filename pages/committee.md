@@ -10,7 +10,7 @@
 ## Chair
 ### Dan Rainer
 
-<img src="/photos/icons/DNR_website.jpg?raw=true" width="200">
+<img src="/photos/people/DNR_website.jpg?raw=true" width="200">
 
 d.n.rainer@soton.ac.uk - University of Southampton
 
