@@ -10,13 +10,16 @@
 ## Chair
 ### Dan Rainer
 
-<img src="/photos/icons/escg.jpg?raw=true" width="200">
+<img src="/photos/icons/DNR_website.jpg?raw=true" width="200">
 
 d.n.rainer@soton.ac.uk - University of Southampton
 
 My role is to represent the interests of the early stage crystallographers to the wider community.
+<div align= "justify">
+I am a senior specialist technician for electron diffraction (RTP) at the University of Southampton and in charge of the electron diffraction facility. We run as part of the National Electron Diffraction Facility (NEDF), a joint venture with the University of Warwick, providing access to 3D electron diffraction (3D ED) to researchers within the UK, as well as international collaborators, and industry. My background is in synthesis and characterisation of porous materials (zeolites, MOFs, …), especially using electron microscopy, but now determine crystal structures using 3D ED across all of areas chemistry as part of the national service.
+</div>
  <br>
- 
+   
 ## Deputy Chair
 ### Sam Lewis
 
