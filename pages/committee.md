@@ -109,10 +109,11 @@ I am a PhD student at the Rosalind Franklin Institute/ University of Edinburgh. 
 ## Ordinary Members
 ### Debashish Das
 
-
-<img src="/photos/icons/escg.jpg?raw=true" width="200">
+<img src="/photos/people/Debashish.jpeg?raw=true" width="200">
 
 DasD2@cardiff.ac.uk - Cardiff University
+<div align= "justify">
+I'm a PhD student in Chemistry at Cardiff University. My research focuses on iron(II) spin-crossover materials, particularly understanding how ligand design, counter-anions, solvation, and crystal packing influence their structural, magnetic, and photoresponsive properties. I use techniques including single-crystal and powder X-ray diffraction, variable-temperature crystallography, photocrystallography, SQUID magnetometry, and time-resolved serial crystallography. I am particularly interested in light-induced structural dynamics and the development of functional molecular materials. 
 <br>
 
 ### Celine Beck
