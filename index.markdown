@@ -9,7 +9,7 @@ permalink: /
         <img src="/photos/icons/escg.jpg" alt="ESCG Logo" width="400">
     </div>
     <div class="committee-photo">
-        <img src="/photos/people/committee.jfif" alt="Committee Photo" width="600">
+        <img src="/photos/people/Committee.jpg" alt="Committee Photo" width="600">
     </div>
 </div>
 
