@@ -18,9 +18,6 @@ permalink: /
   <a href="https://www.linkedin.com/company/early-stage-crystallography-group/" target="_blank">
     <img src="/photos/icons/Linkedin.svg" alt="LinkedIn" width="40">
   </a>
-  <a href="https://x.com/ESCG_BCA" target="_blank">
-    <img src="/photos/icons/X.jpg" alt="X" width="40">
-  </a>
   <a href="https://bsky.app/profile/escg-bca.bsky.social" target="_blank">
     <img src="/photos/icons/Bluesky.png" alt="BlueSky" width="40">
   </a>
