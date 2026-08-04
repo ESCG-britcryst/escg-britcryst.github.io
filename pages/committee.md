@@ -109,6 +109,7 @@ I am a PhD student at the Rosalind Franklin Institute/ University of Edinburgh. 
 <br>
 
 ## Ordinary Members
+
 ### Debashish Das
 
 <img src="/photos/people/Debashish.jpeg?raw=true" width="200">
@@ -133,10 +134,10 @@ I’m a joint PhD student in the Materials and Condensed Matter Physics Group at
 
 <img src="/photos/people/sam-thompson.jpg?raw=true" width="200">
 
-sam.y.thompson64@gmail.com - University of Durham
+sam@chem.au.dk - Aarhus University
 
 <div align= "justify">
-I am a PhD graduate from the Evans’ group at Durham University. My research has involved searching the Cambridge Structural Database for new molecular ferroelectric materials based on symmetry considerations. I then verify these predictions using variable temperature powder and single-crystal X-ray diffraction</div>
+I graduated from the Evans' group at Durham University in 2025 where I was studying ferroelectric phase transitions in molecular materials through pseudo-symmetry identification and crystallographic analysis. I have now joined the CENtre for Sustainable Energy MATerials (CENSEMAT) at Aarhus University, Denmark as a postdoctoral fellow where I am researching short-range order as a design tool to improve and understand battery cathode properties.</div>
 <br>
 
 ### Gayathri Manoj
