@@ -71,12 +71,12 @@ I am a Postdoctoral Fellow in the Watson group at Trinity College Dublin. My wor
 ## BSG Representative
 ### Jake Hill
 
-<img src="/photos/people/jake-hill.jpg" width="200">
+<img src="/photos/people/Jake_Hill.jpg" width="200">
 
-hill-jake@outlook.com - University of Bradford
+J.Hill2@leeds.ac.uk - University of Leeds
 
 <div align= "justify">
-I am currently a PhD Student at the University of Bradford, under the supervision of Dr Briony Yorke. My research focuses on using time-resolved crystallography to understand how the eye lens proteins (Crystallins) respond to UV photodamage and how this ultimately contributes to the formation of cataracts.</div>
+I'm a Research Assistant at the University of Leeds. I work on protein dynamics, how proteins actually move, change and respond to their enviroment. During my PhD I used time-resolved serial crystallography at synchrotrons and XFELs to follow how the eye lens proteins (crystallins) respond to UV photodamage, and how that ultimately lead to cataract formation. Alongside crystallography I use solution biophysics to characterise the same systems in more physiological conditions, and I'm currently applying that combination to membrane protein quality control.</div>
 <br>
  
 ## CCG Representative
@@ -90,9 +90,11 @@ lj281@kent.ac.uk - University of Kent
 ## IG Representative
 ### Yaser Balmohammadi
 
-<img src="/photos/icons/escg.jpg?raw=true" width="200">
+<img src="/photos/people/Yaser.jpg?raw=true" width="200">
 
 balmohammadiy@cardiff.ac.uk - Cardiff University
+<div align= "justify">
+I am currently a postdoctoral researcher at Cardiff University. I finished my PhD in October 2025 at the University of Bern, and my research field was quantum crystallography. At Cardiff University, as a member of Dr.Lauren Hatcher's group, I am working on photoactive materials and employing quantum crystallography in this new research area. </div>
 <br>
 
 ## PCG Representative
