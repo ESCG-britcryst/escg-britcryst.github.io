@@ -90,7 +90,7 @@ lj281@kent.ac.uk - University of Kent
 ## IG Representative
 ### Yaser Balmohammadi
 
-<img src="/photos/people/Yasar.jpg?raw=true" width="200">
+<img src="/photos/people/Yaser.jpg?raw=true" width="200">
 
 balmohammadiy@cardiff.ac.uk - Cardiff University
 <div align= "justify">
