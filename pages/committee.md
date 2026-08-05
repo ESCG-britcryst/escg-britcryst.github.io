@@ -85,6 +85,8 @@ I'm a Research Assistant at the University of Leeds. I work on protein dynamics,
 <img src="/photos/icons/escg.jpg?raw=true" width="200">
 
 lj281@kent.ac.uk - University of Kent
+<div align="justify">
+I am currently a 2nd Year PhD student at the University of Kent under the supervision of Dr Helena J. Shepherd. I am researching the spin-crossover of iron complexes with the aim to develop barocaloric materials by drawing structure-function correlations through investigation of crystal packing and constituents. At my core, I have deep interest in functional materials, especially switchable ones.</div> 
 <br>
 
 ## IG Representative
